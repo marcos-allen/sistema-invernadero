@@ -20,6 +20,6 @@ Repositorio con el código fuente de un prototipo de sistema que monitoree y pro
 - ThingSpeak
 
 ### Hardware
-- Microcontroladores: ESP32
+- Microcontroladores: ESP32 y Arduino UNO R4 Wifi
 - Sensores: DHT11, TDS, y humedad de suelo
 - Actuadores: bombas de agua
